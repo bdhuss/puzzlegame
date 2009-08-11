@@ -1,0 +1,12 @@
+h1.  Puzzle Game
+
+My own custom game of lights-off. I initially made it to analyse the game as it struck my interest in Black and White. I am not using it as a 
+way to practice my AI programming.
+
+h2.  GUI
+
+<p><img src="http://cloud.github.com/downloads/BinaryBurnout/puzzlegame/puzzlegame_02.png" title="Screenshot02" alt="Screenshot02"/></p>
+
+h2.  Copyright
+
+Copyright (c) 2009 Bryan Huss. See LICENSE for details.
