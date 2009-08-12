@@ -5,9 +5,9 @@ way to practice my AI programming.
 
 h2.  GUI
 
-Game:
+h1.  Game:
 <p><img src="http://cloud.github.com/downloads/BinaryBurnout/puzzlegame/puzzlegame_02.png" title="Screenshot02" alt="Screenshot02"/></p>
-High scores:
+h1.  High scores:
 <p><img src="http://cloud.github.com/downloads/BinaryBurnout/puzzlegame/puzzlegame_03.png" title="Screenshot03" alt="Screenshot03"/></p>
 
 h2.  Copyright
