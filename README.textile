@@ -7,6 +7,7 @@ h2.  GUI
 
 h1.  Game:
 <p><img src="http://cloud.github.com/downloads/BinaryBurnout/puzzlegame/puzzlegame_02.png" title="Screenshot02" alt="Screenshot02"/></p>
+
 h1.  High scores:
 <p><img src="http://cloud.github.com/downloads/BinaryBurnout/puzzlegame/puzzlegame_03.png" title="Screenshot03" alt="Screenshot03"/></p>
 
